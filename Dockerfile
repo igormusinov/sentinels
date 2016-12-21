@@ -1,5 +1,4 @@
 FROM yandex/rep:0.6.5
-MAINTAINER Alexander Panin <justheuristic@gmail.com>
 RUN apt-get -qq update
 
 
